@@ -1,0 +1,8 @@
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\bin\Debug\Угрюмова 18 практика индивид.exe.config
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\bin\Debug\Угрюмова 18 практика индивид.exe
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\bin\Debug\Угрюмова 18 практика индивид.pdb
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\obj\Debug\Угрюмова 18 практика индивид.csproj.AssemblyReference.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\obj\Debug\Угрюмова 18 практика индивид.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\obj\Debug\Угрюмова 18 практика индивид.csproj.CoreCompileInputs.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\obj\Debug\Угрюмова 18 практика индивид.exe
+C:\Users\325L-12\Documents\пр\Угрюмова\птпм\Угрюмова 18 практика индивид\obj\Debug\Угрюмова 18 практика индивид.pdb
